@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
       - name: web-test1
-        image: asundara01/webtest1:v0.2
+        image: asundara01/webtest1:v0.3
         ports:
         - containerPort: 80
