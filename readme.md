@@ -47,6 +47,8 @@ The following tools are required. You need to add these command lines tools acce
  start playaround now
  ![Dashboard](images/12.Dashboard.PNG)
  
+ --------------------------
+ 
 ## Part 2: Setup kubectl to access kubenetes cluster environment from your workstation or laptop
 
  - On the ICP dashboard right top corner, click on "admin" icon to get "Configure client" 
@@ -57,6 +59,8 @@ The following tools are required. You need to add these command lines tools acce
  ![kebectl_cmd](images/15.kebectl_cmd.PNG)
  to verify run "kubectl cluster-info" command
  ![kebectl_verification](images/16.kebectl_verification.PNG)
+ 
+ --------------------------
  
  ## Part 3: Setup service account token for kebectl
  
@@ -78,6 +82,8 @@ For v1.2 version,Detail information can be found at the IBM Cloud private User G
 
 For v2.1.0 version, Detail information can be found at the IBM Cloud private User Guide: [IBM Cloud private v2.1.0 User Guide](https://www.ibm.com/support/knowledgecenter/SSBS6K_2.1.0/kc_welcome_containers.html)
 
+ --------------------------
+ 
  
  ## Part 4: SSH to cluster environment from your workstation or laptop
  
@@ -87,6 +93,7 @@ For v2.1.0 version, Detail information can be found at the IBM Cloud private Use
  as shown below
  ![ssh_login](images/18.ssh_login.PNG)
  
+ --------------------------
  
 
 **Beta Service: Please note this is an experimental service and IBM provides no guarantees of availability or preservation of programs or data. Use at your own risk.**
