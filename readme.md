@@ -1,7 +1,7 @@
 # Create a ICP cluster on OpenPOWER systems cloud 
 
-Beta Service: Please note this is an experimental service and IBM provides no guarantees of availability or preservation of programs or data. 
-Use at your own risk.
+**Beta Service: Please note this is an experimental service and IBM provides no guarantees of availability or preservation of programs or data. 
+Use at your own risk**
 
 For IBMers there is a portal service to build ICP 2.1 & 1.2 version on OpenPOWER systems [here](https://portal1.openpowercontainer.com/dashboard/auth/login)
 
@@ -73,7 +73,9 @@ The following tools are required. You need to add these command lines tools acce
 For more information configuring the Kubernetes CLI using service account tokens, see the blog post on [IBM Cloud private at IBM developerWorks](https://www.ibm.com/developerworks/community/blogs/fe25b4ef-ea6a-4d86-a629-6f87ccf4649e/entry/Configuring_the_Kubernetes_CLI_by_using_service_account_tokens1?lang=en)
 
 Note: If you do not get a permanent token, the configuration expires in 12 hours. To continue to use the CLI, you must redo the configuration every 12 hours.
+
 For v1.2 version,Detail information can be found at the IBM Cloud private User Guide: [IBM Cloud private v1.2.0 User Guide](https://www.ibm.com/support/knowledgecenter/SSBS6K_1.2.0/kc_welcome_containers.html)
+
 For v2.1.0 version, Detail information can be found at the IBM Cloud private User Guide: [IBM Cloud private v2.1.0 User Guide](https://www.ibm.com/support/knowledgecenter/SSBS6K_2.1.0/kc_welcome_containers.html)
 
  
@@ -84,4 +86,14 @@ For v2.1.0 version, Detail information can be found at the IBM Cloud private Use
  ![ToSSH](images/17.ToSSH.PNG)
  as shown below
  ![ssh_login](images/18.ssh_login.PNG)
+ 
+ 
+
+**Beta Service: Please note this is an experimental service and IBM provides no guarantees of availability or preservation of programs or data. Use at your own risk.**
+
+For more information on Docker on Power, blogs, downloadable content and tips and techniques, [click here](https://developer.ibm.com/linuxonpower/docker-on-power/)
+
+For Information on Linux on Power, to ask questions, search for linux packages, read blogs and forums, [click here](https://developer.ibm.com/linuxonpower/)
+
+
  
